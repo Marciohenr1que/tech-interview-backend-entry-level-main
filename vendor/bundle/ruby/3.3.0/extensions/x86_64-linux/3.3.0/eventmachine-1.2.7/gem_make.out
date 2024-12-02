@@ -1,0 +1,19 @@
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/xxmarcio/.rvm/rubies/ruby-3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-wqngwo sitelibdir\=./.gem.20241130-103736-wqngwo clean
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-wqngwo sitelibdir\=./.gem.20241130-103736-wqngwo
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-wqngwo sitelibdir\=./.gem.20241130-103736-wqngwo install
+/usr/bin/install -m 0755 fastfilereaderext.so ./.gem.20241130-103736-wqngwo
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-wqngwo sitelibdir\=./.gem.20241130-103736-wqngwo clean

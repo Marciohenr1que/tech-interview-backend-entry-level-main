@@ -1,0 +1,9 @@
+#!/bin/bash -e
+
+# Prepare o banco de dados se for o servidor Rails
+if [ "${1}" == "./bin/rails" ] && [ "${2}" == "server" ]; then
+  ./bin/rails db:prepare
+fi
+
+# Execute o comando
+exec "${@}"

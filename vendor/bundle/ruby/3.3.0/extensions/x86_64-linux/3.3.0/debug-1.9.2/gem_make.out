@@ -1,0 +1,19 @@
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/home/xxmarcio/.rvm/rubies/ruby-3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-e1u7ip sitelibdir\=./.gem.20241130-103736-e1u7ip clean
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-e1u7ip sitelibdir\=./.gem.20241130-103736-e1u7ip
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-e1u7ip sitelibdir\=./.gem.20241130-103736-e1u7ip install
+/usr/bin/install -m 0755 debug.so ./.gem.20241130-103736-e1u7ip/debug
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-e1u7ip sitelibdir\=./.gem.20241130-103736-e1u7ip clean

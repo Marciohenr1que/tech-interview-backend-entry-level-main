@@ -1,0 +1,18 @@
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+/home/xxmarcio/.rvm/rubies/ruby-3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-ni0gfh sitelibdir\=./.gem.20241130-103736-ni0gfh clean
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-ni0gfh sitelibdir\=./.gem.20241130-103736-ni0gfh
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-ni0gfh sitelibdir\=./.gem.20241130-103736-ni0gfh install
+/usr/bin/install -m 0755 cparse.so ./.gem.20241130-103736-ni0gfh/racc
+
+current directory: /mnt/c/Users/User/Desktop/tech-interview-backend-entry-level-main/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241130-103736-ni0gfh sitelibdir\=./.gem.20241130-103736-ni0gfh clean
